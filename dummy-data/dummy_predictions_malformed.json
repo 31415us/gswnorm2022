@@ -1,0 +1,72 @@
+[
+  {
+    "sample_id": "dummy01",
+    "tokens": [
+      "A",
+      "B",
+      "C"
+    ],
+    "prediction": [
+      "a",
+      "b",
+      "c",
+      "x"
+    ]
+  },
+  {
+    "sample_id": "dummy01",
+    "tokens": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "prediction": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ]
+  },
+  {
+    "sample_id": "dummy03",
+    "tokens": [
+      "A",
+      "B",
+      "C"
+    ],
+    "prediction": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "sample_id": "dummy04",
+    "tokens": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "prediction": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ]
+  },
+  {
+    "sample_id": "dummy42",
+    "tokens": [
+      "A",
+      "B",
+      "C"
+    ],
+    "prediction": [
+      "a",
+      "b",
+      "c"
+    ]
+  }
+]
