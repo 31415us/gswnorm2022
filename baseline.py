@@ -54,7 +54,7 @@ def training_loop(data, n_cv=5):
         model.train(train_data)
         predictions = model.predict(test_data)
 
-        err = evaluate(test_data, predictions)
+        err, _ = evaluate(test_data, predictions)
         print(f"ERR on fold {fold_count} is {err:.4f}")
         fold_count += 1
         errs.append(err)
