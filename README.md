@@ -1,14 +1,14 @@
 
-# gswnorm2021
+# gswnorm2022
 
-Repository for the 2021 Shared Task on Text Normalization for Swiss German.
+Repository for the 2022 Shared Task on Text Normalization for Swiss German.
 Further information and sign up form are on the 
-[task website](https://sites.google.com/view/gswnorm2021).
+[task website](https://sites.google.com/view/gswnorm2022).
 
 ## Content
 
 ```
-gswnorm2021
+gswnorm2022
 |
 |   README.md  # this readme file
 |   requirements.txt  # requirements for this repository
